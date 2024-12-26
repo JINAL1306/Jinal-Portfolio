@@ -160,8 +160,8 @@ section {
   /* border-radius: 50%; */
 }
 .section__pic-container img {
-  height: 400px;
-  width: 400px;
+  height: 350px;
+  width: 350px;
   border-radius: 50%;
   object-fit: cover;
   object-position: top;
